@@ -1,0 +1,9 @@
+# System
+.DS_Store
+Thumbs.db
+
+# Packages
+node_modules
+
+# Next
+.next

@@ -1,0 +1,12 @@
+{
+  "name": "my-monorepo",
+  "version": "1.0.0",
+  "private": true,
+  "workspaces": [
+    "apps/*"
+  ],
+  "devDependencies": {
+    "eslint": "^8.49.0",
+    "prettier": "^3.0.3"
+  }
+}
